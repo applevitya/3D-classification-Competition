@@ -10,6 +10,7 @@
 
 ## Results representation
 **Input**: размеченные картинки рендеров 3D-сцен
+
 **Output**: 
 1. Архитектура модели в виде блок схем внутри Jupyter notebook
 2. Jupyter notebook - с confusion matrix и финальным числом точности на тестовой выборке.
