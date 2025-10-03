@@ -1,3 +1,6 @@
+#Deadline
+9 октября 2025 года. Решение надо отправить на ma_gusarova@mail.ru с темой письма: ФИО_тестовое_задание_ангар
+
 # 3D-classification-Competition
 3D classification angar.phys.msu
 
